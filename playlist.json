@@ -1,0 +1,33 @@
+{
+  "albums": [
+    {
+      "title": "So Help Me God",
+      "artist": "Kanye West (Windybro Comp)",
+      "coverUrl": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/covers/SHMG%20cover.png",
+      "songs": [
+        { "title": "Ninja Chop", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/01%20Ninja%20Chop.mp3" },
+        { "title": "Can't Look In My Eyes", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/02%20Can't%20Look%20In%20My%20Eyes.mp3" },
+        { "title": "Fall Out Of Heaven", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/03%20Fall%20Out%20Of%20Heven.mp3" },
+        { "title": "New Angels", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/04%20New%20Angels.mp3" },
+        { "title": "The Mind Is Powerful", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/05%20The%20Mind%20Is%20Powerful.mp3" },
+        { "title": "After You", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/06%20After%20You.mp3" },
+        { "title": "FML", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/07%20FML.mp3" },
+        { "title": "I Feel Like That", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/08%20I%20Feel%20Like%20That.mp3" },
+        { "title": "My Soul", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/09%20My%20Soul.mp3" },
+        { "title": "Highlights", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/10%20Highlights.mp3" },
+        { "title": "Waves", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/11%20Waves.mp3" },
+        { "title": "I Am Not Here", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/12%20I%20Am%20Not%20Here.mp3" },
+        { "title": "Only One", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/13%20Only%20One.mp3" },
+        { "title": "All Day", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/14%20All%20Day.mp3" },
+        { "title": "Southside Serenade", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/15%20Southside%20Serenade.mp3" },
+        { "title": "Mitus Touch", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/16%20Mitus%20Touch.mp3" },
+        { "title": "God Level", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/17%20God%20Level.mp3" },
+        { "title": "Sanctified", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/18%20Sanctified.mp3" },
+        { "title": "Tom Cruise", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/19%20Tom%20Cruise.mp3" },
+        { "title": "New Slaves", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/20%20New%20Slaves.mp3" },
+        { "title": "Special", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/21%20Special.mp3" },
+        { "title": "Black Skinhead (Remix)", "url": "https://raw.githubusercontent.com/darismmj/UntitledVol1/main/SHMG/songs/22%20Black%20Skinhead%20(Remix).mp3" }
+      ]
+    }
+  ]
+}
