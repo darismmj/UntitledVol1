@@ -24,6 +24,21 @@
         { "title": "ONLY ONE", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/SHMG/songs/ONLY%20ONE.mp3"},
         { "title": "I FEEL LIKE THAT", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/SHMG/songs/I%20FEEL%20LIKE%20THAT.mp3"}
       ]
+    },
+    {
+      "title": "Yeezus II",
+      "artist": "Kanye West (Luwi Comp)",
+      "coverUrl": "https://github.com/darismmj/UntitledVol1/raw/main/Yeezus%20II%20-%20luwi/covers/yeezus2.png",
+      "songs": [
+        { "title": "Wolves", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/1.%20Wolves.mp3"},
+        { "title": "However You Want It", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/2.%20However%20You%20Want%20It.mp3"},
+        { "title": "GOD LEVEL", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/3.%20God%20Level.mp3"},
+        { "title": "When I See It", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/4.%20When%20I%20See%20It.mp3"},
+        { "title": "Piss On Your Grave", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/5.%20Piss%20On%20Your%20Grave.mp3"},
+        { "title": "Enya", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/6.%20Enya.mp3"},
+        { "title": "Father Stretch", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/7.%20Father%20Stretch.mp3"},
+        { "title": "Awesome", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/8.%20Awesome.mp3"}
+      ]
     }
   ]
 }
