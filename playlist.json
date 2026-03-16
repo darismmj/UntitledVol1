@@ -42,3 +42,19 @@
     }
   ]
 }
+"albums": [
+    {
+      "title": "Fantasia",
+      "artist": "Kanye West (rupert Comp)",
+      "coverUrl": "https://github.com/darismmj/UntitledVol1/raw/main/Fantasia%20-%20rupert/cover/cover.png",
+      "songs": [
+        { "title": "All Summer", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Fantasia%20-%20rupert/songs/1.%20All%20Summer.mp3"},
+        { "title": "A Star Is Born", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Fantasia%20-%20rupert/songs/2.%20A%20Star%20Is%20Born.mp3"},
+        { "title": "Hate It", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Fantasia%20-%20rupert/songs/3.%20Hate%20It.mp3"},
+        { "title": "Erase Me", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Fantasia%20-%20rupert/songs/4.%20Erase%20Me.mp3"},
+        { "title": "Sky Might Fall", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Fantasia%20-%20rupert/songs/5.%20Sky%20Might%20Fall.mp3"},
+        { "title": "Creepers", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Fantasia%20-%20rupert/songs/6.%20Creepers.mp3"},
+        { "title": "Wild'n Cuz I’m Young", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Fantasia%20-%20rupert/songs/7.%20Wild'n%20Cuz%20I%E2%80%99m%20Young.mp3"}
+        
+      ]
+    },
