@@ -86,6 +86,26 @@
         { "title": "THROUGH THE HIGH WIRE", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/09.%20THROUGH%20THE%20HIGH%20WIRE.mp3" },
         { "title": "SHOWTIME", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/10.%20SHOWTIME.mp3" }
       ]
+    },
+    {
+      "title": "ブリー",
+      "artist": "Kanye West (Orleanz Comp)",
+      "coverUrl": "https://github.com/darismmj/UntitledVol1/raw/main/%E3%83%96%E3%83%AA%E3%83%BC/cover/bully_orleanz.png",
+      "songs": [
+        { "title": "PREACHER MAN", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/01.%20PREACHER%20MAN.mp3" },
+        { "title": "BEAUTY AND THE BEAST", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/02.%20BEAUTY%20AND%20THE%20BEAST.mp3" },
+        { "title": "LAST BREATH", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/03.%20LAST%20BREATH.mp3" },
+        { "title": "WHITE LINES", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/04.%20WHITE%20LINES.mp3" },
+        { "title": "I CAN'T WAIT", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/05.%20I%20CAN'T%20WAIT.mp3" },
+        { "title": "BULLY", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%A7%B4/songs/06.%20BULLY.mp３" },
+        { "title": "ALL THE LOVE", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/07.%20ALL%20THE%20LOVE.mp3" },
+        { "title": "THIS ONE HERE", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/08.%20THIS%20ONE%20HERE.mp3" },
+        { "title": "HIGHS AND LOWS", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/09.%20HIGHS%20AND%20LOWS.mp3" },
+        { "title": "MISSION CONTROL", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/10.%20MISSION%20CONTROL.mp3" },
+        { "title": "CIRCLES", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/11.%20CIRCLES.mp3" },
+        { "title": "DAMN", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%A7/songs/12.%20DAMN.mp３" },
+        { "title": "LOSING YOUR MIND", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/%E3%83%96%E3%83%AA%E3%83%BC/songs/13.%20LOSING%20YOUR%20MIND.mp3" }
+      ]
     }
   ]
 }
