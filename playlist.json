@@ -39,10 +39,7 @@
         { "title": "Father Stretch", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/7.%20Father%20Stretch.mp3"},
         { "title": "Awesome", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/Yeezus%20II%20-%20luwi/songs/8.%20Awesome.mp3"}
       ]
-    }
-  ]
-}
-"albums": [
+    },
     {
       "title": "Fantasia",
       "artist": "Kanye West (rupert Comp)",
@@ -58,3 +55,21 @@
         
       ]
     },
+    {
+      "title": "TURBOGRAFX 16 MITUS",
+      "artist": "Kanye West (Somesoup & Jozzuh Comp)",
+      "coverUrl": "https://github.com/darismmj/UntitledVol1/raw/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20%26%20Jozzuh/cover/TURBOGRAFX16%20-%20MITUS%20COVER.png",
+      "songs": [
+        { "title": "Damn, Come On // Goodnight Gotham", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/1.%20Damn,%20Come%20On%20.%20Goodnight%20Gotham.mp3"},
+        { "title": "Bad Night", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/2.%20Bad%20Night.mp3"},
+        { "title": "Mitus Touch", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/3.%20Mitus%20Touch.mp3"},
+        { "title": "That's On You", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/4.%20That's%20On%20You.mp3"},
+        { "title": "Jealous", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/5.%20Jealous.mp3"},
+        { "title": "All I Know", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/6.%20All%20I%20Know.mp3"},
+        { "title": "Forever", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/7.%20Forever.mp3"},
+        { "title": "Gods Of The City", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/8.%20Gods%20Of%20The%20City.mp3"}
+      ]
+      
+    }
+  ]
+}
