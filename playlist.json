@@ -68,8 +68,24 @@
         { "title": "All I Know", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/6.%20All%20I%20Know.mp3"},
         { "title": "Forever", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/7.%20Forever.mp3"},
         { "title": "Gods Of The City", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/TURBOGRAFX16%20MITUS%20-%20Somesoup%20&%20Jozzuh/songs/8.%20Gods%20Of%20The%20City.mp3"}
+      ] 
+    },
+    {
+      "title": "WAR",
+      "artist": "Kanye West (Simplejosh Comp)",
+      "coverUrl": "https://github.com/darismmj/UntitledVol1/raw/main/WAR%20-%20Simplejosh/cover/war.png",
+      "songs": [
+        { "title": "FOR ONCE IN MY LIFE", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/01.%20FOR%20ONCE%20IN%20MY%20LIFE.mp3" },
+        { "title": "WHAT I WOULD HAVE SAID AT VIRGIL'S FUNERAL", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/02.%20WHAT%20I%20WOULD%20HAVE%20SAID%20AT%20VIRGIL'S%20FUNERAL.mp3" },
+        { "title": "TALKING", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/03.%20TALKING.mp3" },
+        { "title": "HOLD UP, GET UP", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/04.%20HOLD%20UP,%20GET%20UP.mp3" },
+        { "title": "QUIET", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/05.%20QUIET.mp3" },
+        { "title": "BOBBY DIGITAL", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/06.%20BOBBY%20DIGITAL.mp3" },
+        { "title": "LET IT IN", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/07.%20LET%20IT%20IN.mp3" },
+        { "title": "ALL IN LOVE", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/08.%20ALL%20IN%20LOVE.mp3" },
+        { "title": "THROUGH THE HIGH WIRE", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/09.%20THROUGH%20THE%20HIGH%20WIRE.mp3" },
+        { "title": "SHOWTIME", "url": "https://github.com/darismmj/UntitledVol1/raw/refs/heads/main/WAR%20-%20Simplejosh/songs/10.%20SHOWTIME.mp3" }
       ]
-      
     }
   ]
 }
