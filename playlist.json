@@ -110,16 +110,24 @@
     {
       "title": "American Psycho",
       "artist": "Kanye West (IcyCity Comp)",
-      "coverUrl": "",
+      "coverUrl": "https://files.catbox.moe/qqi4xh.png",
       "songs": [
-        { "title": "On Site", "url": "https://pixeldrain.com/api/list/JViVgF2A"},
-        { "title": "Black Skinhead", "url": "https://pixeldrain.com/l/JViVgF2A"},
+        { "title": "On Site", "url": "https://files.catbox.moe/161nrh.mp3"},
+        { "title": "Black Skinhead", "url": "https://files.catbox.moe/hoxru5.mp3"},
         { "title": "I Am A God", "url": "https://files.catbox.moe/3ey59t.mp3"},
         { "title": "Perfect Bitch", "url": "https://files.catbox.moe/w35li3.mp3"},
         { "title": "Talk To Me", "url": "https://files.catbox.moe/h4kh1n.mp3"},
         { "title": "WOW!", "url": "https://files.catbox.moe/fwoojw.mp3"},
         { "title": "Radio", "url": "https://files.catbox.moe/3dv6gk.mp3"},
         { "title": "Padded Walls", "url": "https://files.catbox.moe/l2d3r7.mp3"}
+        { "title": "Emotionless", "url": "https://files.catbox.moe/lsqpp0.mp3"},
+        { "title": "Pain", "url": "https://files.catbox.moe/qt3asz.mp3"},
+        { "title": "Ur2Yung", "url": "https://files.catbox.moe/sxlzv9.mp3"},
+        { "title": "Awesome", "url": "https://files.catbox.moe/yynvo3.mp3"},
+        { "title": "One I Love", "url": "https://files.catbox.moe/gqf0wg.mp3"},
+        { "title": "Nobody 2 Love", "url": "https://files.catbox.moe/6qaman.mp3"},
+        { "title": "Hollywood", "url": "https://files.catbox.moe/nn1eck.mp3"},
+        { "title": "Guilt Trip", "url": "https://files.catbox.moe/pvat49.mp3"}
       ]
     }
   ]
