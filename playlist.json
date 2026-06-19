@@ -129,6 +129,29 @@
         { "title": "Hollywood", "url": "https://files.catbox.moe/nn1eck.mp3"},
         { "title": "Guilt Trip", "url": "https://files.catbox.moe/pvat49.mp3"}
       ]
+    },
+    {
+      "title": "Dear Summer",
+      "artist": "Kanye West (DamnDaniel & Yigit! Comp)",
+      "coverUrl": "https://files.catbox.moe/k4hhq7.png",
+      "songs": [
+        { "title": "SURVIVED", "url": "https://files.catbox.moe/x495n5.mp3"},
+        { "title": "BACK IN TIME", "url": "https://files.catbox.moe/4gq0s0.mp3"},
+        { "title": "BACK IN TIME", "url": "https://files.catbox.moe/0vdoun.mp3"},
+        { "title": "HAPPY", "url": "https://files.catbox.moe/8sz52y.mp3"},
+        { "title": "PABLO", "url": "https://files.catbox.moe/rj7j43.mp3"},
+        { "title": "JESSE", "url": "https://files.catbox.moe/g7s4p1.mp3"},
+        { "title": "CLOSED FOR BUSINESS", "url": "https://files.catbox.moe/3k5t74.mp3"},
+        { "title": "MR. MIYAGI", "url": "https://files.catbox.moe/4icnwa.mp3"},
+        { "title": "LOSING CONTROL", "url": "https://files.catbox.moe/pvipl3.mp3"},
+        { "title": "CITY ON FIRE", "url": "https://files.catbox.moe/ikudxw.mp3"},
+        { "title": "BEAUTIFUL LIFE", "url": "https://files.catbox.moe/mm199h.mp3"},
+        { "title": "DEPRESSION", "url": "https://files.catbox.moe/v6r70j.mp3"},
+        { "title": "AIN’T FOR YOU", "url": "https://files.catbox.moe/nr5q3z.mp3"},
+        { "title": "WAIT FOR YOU", "url": "https://files.catbox.moe/20a2mz.mp3"},
+        { "title": "NEBRASKA", "url": "https://files.catbox.moe/5cj78n.mp3"},
+        { "title": "THINGS CHANGE", "url": "https://files.catbox.moe/50nsnh.mp3"}
+      ]
     }
   ]
 }
